@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="ParametriConfigurazione">
+        <xs:complexType>
+            <xs:sequence>
+                
+                <xs:element name="parametriDB">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="ip" type="xs:string"/>
+						    <xs:element name="porta" type="xs:string"/>
+						    <xs:element name="nomeDatabase" type="xs:string"/>
+						    <xs:element name="userDatabase" type="xs:string"/>
+						    <xs:element name="passwordDatabase" type="xs:string"/>
+					    </xs:sequence>
+				    </xs:complexType>
+			    </xs:element>
+                
+                <xs:element name="xVbox" type="xs:integer"/> 
+                <xs:element name="yVbox" type="xs:integer"/>
+                
+                <xs:element name="nomeSalvataggioCache" type="xs:string"/>
+                <xs:element name="coloreBackground" type="xs:string"/>
+                
+                <xs:element name="indirizzoServer" type="xs:string"/>
+			    <xs:element name="portaServer" type="xs:integer"/>	
+			    <xs:element name="indirizzoClient" type="xs:string"/>
+			    <xs:element name="portaClient" type="xs:integer"/>	
+            
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
+        

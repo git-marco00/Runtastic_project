@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParametriConfigurazione xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="validatoreConfig.xsd">
+    
+    <parametriDB>
+        <ip>localhost</ip>
+        <porta>3306</porta>
+        <nomeDatabase>runtastic</nomeDatabase>
+        <userDatabase>root</userDatabase>
+        <passwordDatabase></passwordDatabase>
+    </parametriDB>
+
+    <xVbox>500</xVbox>
+    <yVbox>600</yVbox>
+    
+    <nomeSalvataggioCache>./myfiles/cache.bin</nomeSalvataggioCache>
+    
+    <coloreBackground>lightyellow</coloreBackground>
+
+    <indirizzoServer>localhost</indirizzoServer>
+	<portaServer>4242</portaServer>
+	<indirizzoClient>localhost</indirizzoClient>
+	<portaClient>6464</portaClient>
+
+</ParametriConfigurazione>
