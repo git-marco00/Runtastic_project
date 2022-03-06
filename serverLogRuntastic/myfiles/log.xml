@@ -1,0 +1,636 @@
+<EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/12 12:53:06</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/12 12:55:08</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/20 20:42:06</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/20 20:42:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 4</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:28</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:28</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 3</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 4</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:43</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 4</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:18:58</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 3</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:02</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:06</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:20</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 3</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:22</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>ELIMINA</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:26</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:27</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:29</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/21 14:19:52</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:24:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:24:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:25:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:25:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:31:16</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:31:20</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:31:20</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:41:35</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 3</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:41:42</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AGGIUNGI</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:42:12</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:42:35</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:42:39</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:42:40</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:42:46</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:07</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>ELIMINA</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:09</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:10</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:11</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:17</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:43:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:46:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:46:46</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:46:47</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:50:10</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:50:29</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:50:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:53:50</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>ELIMINA</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:55:02</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 12:55:05</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/22 21:17:34</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:23:40</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:23:40</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:23:48</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:23:59</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:23:59</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AGGIUNGI</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:24:20</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:25:12</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:25:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:25:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:28:49</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:29:31</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:29:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:32:05</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:32:22</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:32:34</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:32:40</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:33:34</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:33:36</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>ELIMINA</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:33:37</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:33:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 12:33:42</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:36:19</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:36:19</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:41:55</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:41:55</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:47:59</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:48:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:48:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:48:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:49:02</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:49:06</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:49:06</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:50:30</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:50:36</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:50:36</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:51:11</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:51:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:51:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:51:31</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:56:47</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:56:47</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:57:37</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:58:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 13:58:24</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:01:36</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:01:41</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:01:41</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:01:45</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:38</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:51</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:54</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:58</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 14:04:58</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 17:41:43</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 17:41:43</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 17:41:50</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/02/24 17:41:53</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 11:43:13</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 11:44:46</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 11:45:01</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 11:45:42</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 11:47:08</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:00:07</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AGGIUNGI</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:00:42</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 1</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:05:58</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>ELIMINA</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:06:43</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 2</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:06:47</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:06:59</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:10:59</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>RIGA SELEZIONATA: 0</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:11:22</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:11:22</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:11:26</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:44:32</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>REFRESH</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:45:25</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:45:28</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>AVVIO</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:45:33</giornoOraCorrente>
+</EventoNavigazioneGUI><EventoNavigazioneGUI>
+  <applicazione>RUNTASTIC</applicazione>
+  <ipClient>localhost</ipClient>
+  <etichettaEvento>TERMINE</etichettaEvento>
+  <giornoOraCorrente>2022/03/06 12:45:36</giornoOraCorrente>
+</EventoNavigazioneGUI>
